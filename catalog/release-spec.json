@@ -1,0 +1,84 @@
+{
+  "pack_identifier": "lo-fi-hip-hop-chords",
+  "display_name": "Lo-Fi Hip-Hop Chords Studies",
+  "brief_name": "Lo-Fi Hip-Hop Chords",
+  "creative_intention": "Warm minor-seventh shell voicings with understated bass responses.",
+  "rhythmic_direction": "Relaxed backbeat and rests around soft chord entries.",
+  "palette": "Keys, bass, melodic fragments and programmed drums.",
+  "guardrail": "Original symbolic studies; genre labels are production directions, not cultural authority.",
+  "generator_version": "release-train-1.0.0",
+  "reproducible_command": "python tools/build_release.py --pack lo-fi-hip-hop-chords",
+  "actual_tempo_bpm": 82,
+  "meter": "4/4",
+  "ppq": 480,
+  "end_tick": 61440,
+  "roles": [
+    {
+      "role": "chord_pulse",
+      "wire_channel": 0,
+      "user_facing_channel": 1,
+      "polyphony_cap": 3
+    },
+    {
+      "role": "sub_bass",
+      "wire_channel": 1,
+      "user_facing_channel": 2,
+      "polyphony_cap": 1
+    },
+    {
+      "role": "principal_motif",
+      "wire_channel": 2,
+      "user_facing_channel": 3,
+      "polyphony_cap": 1
+    },
+    {
+      "role": "vocal_like_synth",
+      "wire_channel": 3,
+      "user_facing_channel": 4,
+      "polyphony_cap": 1
+    },
+    {
+      "role": "counter_texture",
+      "wire_channel": 4,
+      "user_facing_channel": 5,
+      "polyphony_cap": 2
+    },
+    {
+      "role": "drums",
+      "wire_channel": 9,
+      "user_facing_channel": 10,
+      "polyphony_cap": 4
+    }
+  ],
+  "studies": [
+    {
+      "id": "lh01",
+      "title": "Window Tape",
+      "tonic": "C",
+      "pitch_collection": "pack-local equal-tempered pitch collection"
+    },
+    {
+      "id": "lh02",
+      "title": "Dust Loop",
+      "tonic": "D#",
+      "pitch_collection": "pack-local equal-tempered pitch collection"
+    },
+    {
+      "id": "lh03",
+      "title": "Quiet Street",
+      "tonic": "F#",
+      "pitch_collection": "pack-local equal-tempered pitch collection"
+    },
+    {
+      "id": "lh04",
+      "title": "Late Memory",
+      "tonic": "C#",
+      "pitch_collection": "pack-local equal-tempered pitch collection"
+    }
+  ],
+  "limitations": [
+    "Original symbolic material; no samples.",
+    "Automated validation is technical evidence, not copyright clearance.",
+    "The listening file is a simple-synthesis preview, not a master."
+  ]
+}

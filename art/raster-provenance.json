@@ -1,0 +1,15 @@
+{
+  "source": "art/illustration-source.png",
+  "source_sha256": "80ac7268aee1d8990e29372656740d2dabfa9d5da8426f7967c9a635e3684254",
+  "classification": "AI-generated abstract illustration, not a recording-session photograph",
+  "derived": [
+    "art/hero.jpg",
+    "art/square.jpg",
+    "film/poster.jpg",
+    "social/instagram/square.jpg",
+    "social/instagram/portrait.jpg",
+    "social/x/card.jpg"
+  ],
+  "generator": "OpenAI built-in image generation",
+  "prompt_file": "art/image-prompt.txt"
+}
