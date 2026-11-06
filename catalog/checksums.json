@@ -68,8 +68,8 @@
     },
     {
       "path": "catalog/note-events.csv",
-      "bytes": 88996,
-      "sha256": "266345203e023d65c27dfb066ed09cf56d843adf0a8e92d957f03d45ad190aa8"
+      "bytes": 92234,
+      "sha256": "3657a961df8b72fca3f230e8ef7c712ae39eb942f02e08060c10787fb243b051"
     },
     {
       "path": "catalog/patch-recipes.json",
@@ -94,7 +94,7 @@
     {
       "path": "checks/build-metadata.json",
       "bytes": 379,
-      "sha256": "0f72397859d6263e19b2527a93c9598b22529df63f15e5cfb3e3d565da788cda"
+      "sha256": "5f268ae981d465588200e0a6815b63ff48a9b2b4cfdcd477a3eeea2aca4e0268"
     },
     {
       "path": "checks/clip-validation.json",
@@ -108,8 +108,8 @@
     },
     {
       "path": "checks/media-validation.json",
-      "bytes": 462,
-      "sha256": "96e442960d4e4ecb459c3eacba4abcd2a1b70cf47cd25c33dd86f20d6da3cdd1"
+      "bytes": 518,
+      "sha256": "3bbc326f53d5d184c4101b788c654770325f08aa452ce6900a8e711fa6734cd1"
     },
     {
       "path": "clips/lh01-chord-progression-01.mid",
@@ -198,13 +198,13 @@
     },
     {
       "path": "downloads/lo-fi-hip-hop-chords-midi.zip",
-      "bytes": 29578,
-      "sha256": "5ea69aa06dac6c9f274a3e907165963b075055c5cfdb34ef113ab14acef1226d"
+      "bytes": 29989,
+      "sha256": "b94a09d2295987f84fa07287f4e6c50068d05ff12f787b5356d0421019089e3e"
     },
     {
       "path": "film/motion-note-roll.png",
-      "bytes": 2623,
-      "sha256": "7312ced87a9969f4e00f81a079a5b61d220c06e573cf4723942285a58d8cb5a3"
+      "bytes": 2651,
+      "sha256": "97dd940b042bcb232836c3a5eb0c8c8dfae9a397baae29d6ea787620e5862387"
     },
     {
       "path": "film/motion-overlay.png",
@@ -218,8 +218,8 @@
     },
     {
       "path": "film/preview.mp4",
-      "bytes": 966456,
-      "sha256": "b68fc43d68cb2a03ee2ae41f162f0bebf234780fe842f9897fd364eefb5a9285"
+      "bytes": 990075,
+      "sha256": "8e86e4304e8a4908317d0e391690fc975b5e7449eea3890bda89ce3cca14e68d"
     },
     {
       "path": "film/preview.vtt",
@@ -228,13 +228,13 @@
     },
     {
       "path": "film/video-manifest.json",
-      "bytes": 1176,
-      "sha256": "76949c97154a329156bea383550bd9ad91fd13bb27b26d7dc44a01148304a4bf"
+      "bytes": 1202,
+      "sha256": "a97096e350a63245312a458865154b89205cd23caf423171d5b6d2495d355ed6"
     },
     {
       "path": "index.html",
-      "bytes": 9549,
-      "sha256": "e8bb6ac6b06d2445f5da6a9f9edc7420fb2a0eed95666a2746dd3f4c8ca41c3c"
+      "bytes": 9763,
+      "sha256": "74a4895fef2cfe153567cf72ca8391c36d01f032d12794406c88de5e497399cc"
     },
     {
       "path": "midi/lh01-window-tape/chord_pulse.mid",
@@ -253,13 +253,13 @@
     },
     {
       "path": "midi/lh01-window-tape/lh01-window-tape-combined.mid",
-      "bytes": 5519,
-      "sha256": "53b50090200b9fa3bce281d1ba46c112acee2e7ff3aea73a47ee1ed8ff3cbaac"
+      "bytes": 5688,
+      "sha256": "d8fe48077c6d91890dfe098b5764fe4d5357bab71537c356e0965b7019ccc90c"
     },
     {
       "path": "midi/lh01-window-tape/principal_motif.mid",
-      "bytes": 491,
-      "sha256": "4a665988ebafb8b91cd4c0049e65e25ea24013906067940687e2d62ee712349f"
+      "bytes": 660,
+      "sha256": "2883e941a445b88cc35b3ea5ca64c1648ee215f9e99a523fdb9a8fb776ab3248"
     },
     {
       "path": "midi/lh01-window-tape/sub_bass.mid",
@@ -288,13 +288,13 @@
     },
     {
       "path": "midi/lh02-dust-loop/lh02-dust-loop-combined.mid",
-      "bytes": 5519,
-      "sha256": "c0e38f87439585be04047c30bfcd58bfbf9f3552fcf6774c315474df13654474"
+      "bytes": 5689,
+      "sha256": "35fbf4a847879628ac8573910093d8e01b97a8af48ac4246dad4bc41615e5d94"
     },
     {
       "path": "midi/lh02-dust-loop/principal_motif.mid",
-      "bytes": 491,
-      "sha256": "92efa7fc01940df9dd2e92499e107d5887f854ea5a32a08947b7812eab3f1468"
+      "bytes": 661,
+      "sha256": "9c9fcec3fac5d54c621bcf9569bdd83aaa409e37b34f930324343b0ac1e31aad"
     },
     {
       "path": "midi/lh02-dust-loop/sub_bass.mid",
@@ -323,13 +323,13 @@
     },
     {
       "path": "midi/lh03-quiet-street/lh03-quiet-street-combined.mid",
-      "bytes": 5499,
-      "sha256": "51d6af6cb1eb4358d65f8c8131b711636f8e41838bb0d1a069043c4f92d2af01"
+      "bytes": 5689,
+      "sha256": "3665f7997026b384212cbee0dfc6d54eb67107d533f925121d0a00b05c03aed0"
     },
     {
       "path": "midi/lh03-quiet-street/principal_motif.mid",
-      "bytes": 471,
-      "sha256": "fabfe7646eb95ce50a5cd94f0a5daa891023f6aa205abbc03129be421bee9b91"
+      "bytes": 661,
+      "sha256": "5ad64842bde23c8d50ffd8c4678c1733ef1cf2e1b205cf7cd46244b17e415840"
     },
     {
       "path": "midi/lh03-quiet-street/sub_bass.mid",
@@ -358,13 +358,13 @@
     },
     {
       "path": "midi/lh04-late-memory/lh04-late-memory-combined.mid",
-      "bytes": 5499,
-      "sha256": "010997f6f4f211093bc37b1b3fa59de39b0db0c37ab4b3412c64d47473506fef"
+      "bytes": 5689,
+      "sha256": "ba47910445c1c03a66d9d843340b7a57eb39e0569b83ea498250c0bcf9237ac8"
     },
     {
       "path": "midi/lh04-late-memory/principal_motif.mid",
-      "bytes": 471,
-      "sha256": "5374397e0d768b11d55344e01bbbc0ce09538b545fe24954e7bcca7838d1e374"
+      "bytes": 661,
+      "sha256": "2d2baa1e2372ba4763a989fef138154d1edfe6bd1e46b296711514e2849abf94"
     },
     {
       "path": "midi/lh04-late-memory/sub_bass.mid",
@@ -379,17 +379,22 @@
     {
       "path": "preview/lo-fi-hip-hop-chords-simple-synth-preview.mp3",
       "bytes": 2261412,
-      "sha256": "6cdc3dc148fd8731930c1f928458c509e7e46af563ed90ba31a7a5bbee858cf8"
+      "sha256": "0cc0371e03b6f85f766c9be28b4137708f7147c84d578faf4d292fd5a4b35b1f"
     },
     {
       "path": "preview/preview-manifest.json",
       "bytes": 1133,
-      "sha256": "1f3bbf71923f40991cc153f54337cf5556d75fdf75c1a3a1475c6a4705048c62"
+      "sha256": "373eb465ad05bc7c30f3010e56f99f43da89e91129a1a9016b4d81eec57398a3"
     },
     {
       "path": "README.md",
-      "bytes": 3883,
-      "sha256": "f09c73d0f7d44ac21b3d76583df871fbec44e28a4326a22ed785bc14c6074e95"
+      "bytes": 4049,
+      "sha256": "51b82d700ce342f37ab3815a1f86c106201b51af87a4030e3bb7411c20a4f784"
+    },
+    {
+      "path": "REVISION.md",
+      "bytes": 459,
+      "sha256": "3eacf0353039d04726de89d5e30850da6403bf4512bef6bf71ca90ebfdb2ee1f"
     },
     {
       "path": "social/instagram/caption.txt",
@@ -423,8 +428,8 @@
     },
     {
       "path": "tools/build_release.py",
-      "bytes": 92807,
-      "sha256": "d71560a162e9aad9859ac6588ffb5f2396669084c3403911583b9f6794eb7801"
+      "bytes": 93237,
+      "sha256": "cb5d8319820502727504836308776e1c541a0caad0f251a9f1b2ae8b61a863f6"
     },
     {
       "path": "tools/polish_release.py",

@@ -1,9 +1,9 @@
 {
   "label": "preview, not a master.",
   "preview_path": "preview/lo-fi-hip-hop-chords-simple-synth-preview.mp3",
-  "preview_sha256": "6cdc3dc148fd8731930c1f928458c509e7e46af563ed90ba31a7a5bbee858cf8",
+  "preview_sha256": "0cc0371e03b6f85f766c9be28b4137708f7147c84d578faf4d292fd5a4b35b1f",
   "source_midi_path": "midi/lh01-window-tape/lh01-window-tape-combined.mid",
-  "source_midi_sha256": "53b50090200b9fa3bce281d1ba46c112acee2e7ff3aea73a47ee1ed8ff3cbaac",
+  "source_midi_sha256": "d8fe48077c6d91890dfe098b5764fe4d5357bab71537c356e0965b7019ccc90c",
   "renderer": "release-simple-synth 1.0.0",
   "renderer_configuration": {
     "sample_rate": 44100,
@@ -23,7 +23,7 @@
     "end_seconds": 93.658
   },
   "measurement": {
-    "sample_peak": 0.115133,
+    "sample_peak": 0.142127,
     "not_lufs_or_true_peak": true
   },
   "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."

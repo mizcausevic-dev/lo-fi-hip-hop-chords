@@ -1,6 +1,6 @@
 {
   "status": "PASS",
-  "run_time_utc": "2026-11-05T14:22:49.182234+00:00",
+  "run_time_utc": "2026-11-06T19:24:35.123961+00:00",
   "tool": "validate_release.py with Python 3.14.0",
   "files_checked": 28,
   "errors": [],
@@ -26,14 +26,14 @@
     },
     {
       "path": "midi/lh01-window-tape/lh01-window-tape-combined.mid",
-      "bytes": 5519,
-      "sha256": "53b50090200b9fa3bce281d1ba46c112acee2e7ff3aea73a47ee1ed8ff3cbaac",
+      "bytes": 5688,
+      "sha256": "d8fe48077c6d91890dfe098b5764fe4d5357bab71537c356e0965b7019ccc90c",
       "errors": []
     },
     {
       "path": "midi/lh01-window-tape/principal_motif.mid",
-      "bytes": 491,
-      "sha256": "4a665988ebafb8b91cd4c0049e65e25ea24013906067940687e2d62ee712349f",
+      "bytes": 660,
+      "sha256": "2883e941a445b88cc35b3ea5ca64c1648ee215f9e99a523fdb9a8fb776ab3248",
       "errors": []
     },
     {
@@ -68,14 +68,14 @@
     },
     {
       "path": "midi/lh02-dust-loop/lh02-dust-loop-combined.mid",
-      "bytes": 5519,
-      "sha256": "c0e38f87439585be04047c30bfcd58bfbf9f3552fcf6774c315474df13654474",
+      "bytes": 5689,
+      "sha256": "35fbf4a847879628ac8573910093d8e01b97a8af48ac4246dad4bc41615e5d94",
       "errors": []
     },
     {
       "path": "midi/lh02-dust-loop/principal_motif.mid",
-      "bytes": 491,
-      "sha256": "92efa7fc01940df9dd2e92499e107d5887f854ea5a32a08947b7812eab3f1468",
+      "bytes": 661,
+      "sha256": "9c9fcec3fac5d54c621bcf9569bdd83aaa409e37b34f930324343b0ac1e31aad",
       "errors": []
     },
     {
@@ -110,14 +110,14 @@
     },
     {
       "path": "midi/lh03-quiet-street/lh03-quiet-street-combined.mid",
-      "bytes": 5499,
-      "sha256": "51d6af6cb1eb4358d65f8c8131b711636f8e41838bb0d1a069043c4f92d2af01",
+      "bytes": 5689,
+      "sha256": "3665f7997026b384212cbee0dfc6d54eb67107d533f925121d0a00b05c03aed0",
       "errors": []
     },
     {
       "path": "midi/lh03-quiet-street/principal_motif.mid",
-      "bytes": 471,
-      "sha256": "fabfe7646eb95ce50a5cd94f0a5daa891023f6aa205abbc03129be421bee9b91",
+      "bytes": 661,
+      "sha256": "5ad64842bde23c8d50ffd8c4678c1733ef1cf2e1b205cf7cd46244b17e415840",
       "errors": []
     },
     {
@@ -152,14 +152,14 @@
     },
     {
       "path": "midi/lh04-late-memory/lh04-late-memory-combined.mid",
-      "bytes": 5499,
-      "sha256": "010997f6f4f211093bc37b1b3fa59de39b0db0c37ab4b3412c64d47473506fef",
+      "bytes": 5689,
+      "sha256": "ba47910445c1c03a66d9d843340b7a57eb39e0569b83ea498250c0bcf9237ac8",
       "errors": []
     },
     {
       "path": "midi/lh04-late-memory/principal_motif.mid",
-      "bytes": 471,
-      "sha256": "5374397e0d768b11d55344e01bbbc0ce09538b545fe24954e7bcca7838d1e374",
+      "bytes": 661,
+      "sha256": "2d2baa1e2372ba4763a989fef138154d1edfe6bd1e46b296711514e2849abf94",
       "errors": []
     },
     {
