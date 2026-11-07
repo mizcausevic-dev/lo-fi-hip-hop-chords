@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/lo-fi-hip-hop-chords-midi.zip",
-      "bytes": 29989,
-      "sha256": "b94a09d2295987f84fa07287f4e6c50068d05ff12f787b5356d0421019089e3e"
+      "bytes": 32201,
+      "sha256": "a7baf14ef0aa442b20d0c84f8965c0e44989ee2682d9fd97f1600a498423a15b"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9763,
-      "sha256": "74a4895fef2cfe153567cf72ca8391c36d01f032d12794406c88de5e497399cc"
+      "bytes": 9953,
+      "sha256": "eca2e1cb9183ee155c4479cd775c20f9eea09d32c3fdd7c9e96add3772a874e9"
     },
     {
       "path": "midi/lh01-window-tape/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "810de4e8261bde82320fc2710d6f0e4321f66efd6b1b7b59a7e11d29312d6d74"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/lo-fi-hip-hop-chords-simple-synth-preview.mp3",
       "bytes": 2261412,
       "sha256": "0cc0371e03b6f85f766c9be28b4137708f7147c84d578faf4d292fd5a4b35b1f"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4049,
-      "sha256": "51b82d700ce342f37ab3815a1f86c106201b51af87a4030e3bb7411c20a4f784"
+      "bytes": 4164,
+      "sha256": "ef94f6129fc0d67db3a796d5150222440c65d0b4faf2e3659c45c56b85f471d9"
     },
     {
       "path": "REVISION.md",
